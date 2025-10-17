@@ -5,6 +5,7 @@
 This is a Python development project created for the PLP Academy. It focuses on predicting employee burnout using machine learning techniques. The project demonstrates practical skills in Python programming, data preprocessing, exploratory data analysis (EDA), feature engineering, and regression model development.
 
 🎯 Objectives
+
 Analyze employee-level data to understand burnout patterns
 
 Clean and preprocess raw data for modeling
@@ -25,15 +26,10 @@ test.csv: unlabeled data for prediction
 
 Key features include:
 
-Gender, Company Type, WFH Setup
-
-Designation, Resource Allocation
-
-Mental Fatigue Score, Date of Joining
-
-Burn Rate (target variable)
+Gender, Company Type, WFH Setup, Designation, Resource Allocation, Mental Fatigue Score, Date of Joining and Burn Rate (target variable)
 
 🔍 Exploratory Data Analysis (EDA)
+
 Summary statistics and data types
 
 Missing value handling
@@ -43,6 +39,7 @@ Distribution plots and boxplots
 Correlation heatmap and pairplots
 
 ⚙️ Data Preprocessing
+
 Label encoding for categorical variables
 
 Median imputation for missing values
@@ -52,6 +49,7 @@ Min-Max normalization for selected features
 Feature engineering: Tenure (Years) from Date of Joining
 
 🤖 Model Development
+
 Regression models trained:
 
 Linear Regression
@@ -90,6 +88,7 @@ Designation
 Company Type
 
 💡 Insights
+
 Employees with high mental fatigue and long tenure are more prone to burnout
 
 Resource allocation and designation levels significantly influence burnout risk
