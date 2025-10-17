@@ -1,5 +1,7 @@
 🔥 Predicting Burnout with Machine Learning
+
 📘 Overview
+
 This is a Python development project created for the PLP Academy. It focuses on predicting employee burnout using machine learning techniques. The project demonstrates practical skills in Python programming, data preprocessing, exploratory data analysis (EDA), feature engineering, and regression model development.
 
 🎯 Objectives
@@ -14,6 +16,7 @@ Train and evaluate regression models
 Generate insights to support workplace well-being strategies
 
 📂 Dataset
+
 The project uses two CSV files:
 
 train.csv: labeled data for training and analysis
